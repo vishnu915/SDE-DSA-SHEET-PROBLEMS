@@ -1,0 +1,6 @@
+class Solution():
+  def printNumber(self):
+      userinput=int(input("enter the any number: "))
+      print(userinput)
+s1=Solution()
+s1.printNumber()
